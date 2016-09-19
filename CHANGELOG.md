@@ -1,6 +1,6 @@
 3.3 (in progress)
 ================
-* Your contribution here.
+* [#259](https://github.com/dblock/oshi/pull/259): Fixed test in Windows environment [@henryx](https://github.com/henryx).
 
 3.2 (9/1/2016)
 ================
